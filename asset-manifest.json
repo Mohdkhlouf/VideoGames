@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/videogames/static/css/main.cf2d5332.css",
-    "main.js": "/videogames/static/js/main.acd32adc.js",
+    "main.js": "/videogames/static/js/main.445fdf40.js",
     "static/js/787.dcc73137.chunk.js": "/videogames/static/js/787.dcc73137.chunk.js",
     "index.html": "/videogames/index.html",
     "main.cf2d5332.css.map": "/videogames/static/css/main.cf2d5332.css.map",
-    "main.acd32adc.js.map": "/videogames/static/js/main.acd32adc.js.map",
+    "main.445fdf40.js.map": "/videogames/static/js/main.445fdf40.js.map",
     "787.dcc73137.chunk.js.map": "/videogames/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf2d5332.css",
-    "static/js/main.acd32adc.js"
+    "static/js/main.445fdf40.js"
   ]
 }
