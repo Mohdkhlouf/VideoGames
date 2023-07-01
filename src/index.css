@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  padding:0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/*News Section*/
+.news-section .news{
+  
+}
+
+.news .row{
+        margin-bottom:20px;
+}
+
+.news-section{
+  margin-top: 10px;
+  
+}
+.news_thumbnail{
+  width:100%;
+  height:200px;
+}
+
+.news_title{
+  font-size:16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color:#42b9be;
+  
+}
+
+.news_p{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 50px;
+
+}
+
+
+
+/**/
+.Products{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.sidebar{
+  padding-top:10px;
+  background-color:#494d55;
+  color:#c7c9cb;
+  text-align: center;
+  box-sizing: border-box;
+  width:20%;
+}
+
+.sidebar img{
+  border:1px solid #c7c9cb;
+}
+
+.sidebar button{
+  border:0px;
+  padding:5px;
+  text-align:left;
+  margin-bottom: 10px;
+  background-color: transparent;
+  color:#c7c9cb;
+  width:100%;
+  padding-left:20px;
+}
+
+.sidebar button:hover{
+  
+  background-color: #31343a;
+  
+}
+
+.product-content{
+  width:80%;
+  text-align: center;
+  margin-left: 10px;
+  padding-top: 10px;
+}
+
+
+
+.navbar{
+  background-color:#42b9be !important;
+}
+
+.footer{
+  background-color:#42b9be !important;
+}
+
+
